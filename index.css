@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    }
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: #007bff;
+    text-decoration:
+    none;
+}
+
+.btn-project,#btn-close {
+    margin-left: 10px;
+    margin: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+
+#project-details {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.hidden {
+    display: none;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color:  #007bff;
+    color: white;
+}
+
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.column {
+    width: 45%;
+}
+
+.column h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.contact-info, .social-media {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contact-info li, .social-media li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.social-media li a {
+    display: flex;
+    align-items: center;
+    color: #555;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.social-media li a i {
+    margin-right: 10px;
+    font-size: 1.3rem;
+}
+
+.social-media li a:hover {
+    color: #007bff;
+}
+
+
+
+
