@@ -1,4 +1,4 @@
-## O desafio tem como Principio Executar uma aplicacao HTML em um container Apache(HTTPD)
+## O desafio tem como Principio Executar uma aplicação HTML em um container Apache(HTTPD)
 
 <h1> 
   <p align="center">
